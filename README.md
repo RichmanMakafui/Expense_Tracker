@@ -17,5 +17,11 @@ Welcome to the **Expense Tracker**! This project is a simple yet powerful tool t
 2. **Add Expenses**: Add your expenses as they occur. You can categorize them to get a better breakdown of where your money is going.
 3. **Set a Savings Goal**: Define a savings target. The tracker will help you keep an eye on how close you are to reaching it.
 4. **View Summary**: At any time, you can view a summary of your financial situation, including total income, total expenses, and your current savings.
-5. **Track Pr
+5. **Track Progress**: The savings progress feature will show you how much you’ve saved and how much more you need to reach your goal.
 
+## Installation
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/RichmanMakafui/Expense_Tracker.git
